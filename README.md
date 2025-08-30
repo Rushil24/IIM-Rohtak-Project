@@ -17,11 +17,7 @@ Can be adapted for similar academic/competitive problems
 
 Language: Python
 
-Libraries Used: (Add if you used pandas, numpy, matplotlib, etc.)
-
 🔹 Usage
-
-Clone the repository and run the script:
 
 python FinalWorkingProject.py
 
